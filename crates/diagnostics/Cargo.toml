@@ -1,0 +1,12 @@
+[package]
+name = "craftlings-diagnostics"
+description = "Diagnostics for the Craftlings game."
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+publish.workspace = true
+version.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+bevy.workspace = true

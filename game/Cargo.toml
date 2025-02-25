@@ -1,0 +1,17 @@
+[package]
+name = "craftlings"
+description = "Yet another Minecraft clone made with Bevy."
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+publish.workspace = true
+version.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+dotenv = "0.15"
+
+craftlings-core.workspace = true
+craftlings-diagnostics.workspace = true
+
+bevy.workspace = true

@@ -1,0 +1,17 @@
+[book]
+authors = ["Miche <michewl@pm.me>"]
+description = "The companion book for the Craftlings game."
+language = "en"
+multilingual = false
+src = "src"
+title = "Craftlings 🦀⛏"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/michewl/craftlings"
+
+[preprocessor.alerts]
+
+[rust]
+edition = "2024"
